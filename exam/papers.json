@@ -1,1 +1,1 @@
-[]
+[{"id":"p1788970538785","title":"sf","openT":"2026-09-10T00:15","closeT":"2026-09-10T00:18","tries":1,"passLine":60,"questions":[{"type":"single","q":"是的","opts":["低俗低俗","速度","是的吧","首都"],"ans":[3]}],"updated":"2026/9/10 00:17:32"},{"id":"p1788971428079","title":"官方","openT":"2026-09-10T00:30","closeT":"2026-09-10T00:33","tries":1,"passLine":60,"showAns":false,"questions":[{"type":"single","q":"第三方","opts":["是对方","是对方","是对方","是对方"],"ans":[0]}],"updated":"2026/9/10 00:31:03"}]
