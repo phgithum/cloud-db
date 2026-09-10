@@ -120,14 +120,7 @@
       "notified": true
     }
   ],
-  "grants": [
-    {
-      "gid": "gmtvcn6hhns4q",
-      "name": " ",
-      "site": "知识库",
-      "until": "2026-09-10T10:43:59.231Z"
-    }
-  ],
+  "grants": [],
   "blocked": [
     "gmtuxlvkh3i3q",
     "gmtuwxea10x91",
@@ -144,6 +137,7 @@
     "gmtvc9zmpb5ag",
     "gmtvcdfrzy7is",
     "gmtvcf26typsd",
-    "gmtvclhrdwi2k"
+    "gmtvclhrdwi2k",
+    "gmtvcn6hhns4q"
   ]
 }
