@@ -1,4 +1,12 @@
 {
-  "requests": [],
+  "requests": [
+    {
+      "gid": "gmtuwjzmyn1xa",
+      "name": "",
+      "site": "知识库",
+      "time": "2026-09-10T02:22:45.030Z",
+      "notified": false
+    }
+  ],
   "grants": []
 }
