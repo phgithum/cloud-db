@@ -57,20 +57,14 @@
       "notified": true
     }
   ],
-  "grants": [
-    {
-      "gid": "gmtux67ct8pj9",
-      "name": "千问",
-      "site": "知识库",
-      "until": "2026-09-10T07:20:10.899Z"
-    }
-  ],
+  "grants": [],
   "blocked": [
     "gmtuxlvkh3i3q",
     "gmtuwxea10x91",
     "gmtuwo94jo6j8",
     "gmtuwln758esj",
     "gmtuwjzmyn1xa",
-    "gmtv46fbdw4re"
+    "gmtv46fbdw4re",
+    "gmtux67ct8pj9"
   ]
 }
